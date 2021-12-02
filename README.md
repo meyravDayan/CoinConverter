@@ -1,4 +1,4 @@
-# CoinConverter 👛
+# Coin Converter💰
 In this project we use a text file containing information of currencies the user wish to convert, and prints the converted amount.
 The file is in the shape of:  
 line 1: origin coin  
